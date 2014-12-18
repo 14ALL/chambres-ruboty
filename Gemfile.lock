@@ -47,6 +47,8 @@ GEM
       faraday
       faraday_middleware
       ruboty
+    ruboty-hitozuma (0.0.3)
+      ruboty
     ruboty-redis (0.0.5)
       redis
       redis-namespace
@@ -72,6 +74,7 @@ DEPENDENCIES
   ruboty-alias
   ruboty-cron
   ruboty-google_image
+  ruboty-hitozuma
   ruboty-redis
   ruboty-slack
   ruboty-talk
