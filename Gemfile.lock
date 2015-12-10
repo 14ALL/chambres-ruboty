@@ -50,7 +50,7 @@ GEM
       ruboty (>= 0.2.0)
     ruboty-echo (0.1.0)
       ruboty
-    ruboty-good-night (0.1.2)
+    ruboty-good-night (0.1.3)
     ruboty-google_image (0.0.7)
       faraday
       faraday_middleware
